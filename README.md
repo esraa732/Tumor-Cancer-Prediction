@@ -1,5 +1,6 @@
 # Tumor-Cancer-Prediction
 =>Predict the Patient diagnosis based on the given features.
+
 A tumor is an abnormal lump or growth of cells. When the cells in the tumor are normal, it is benign. Something just went wrong, and they overgrew and produced a lump. When the cells are abnormal and can grow uncontrollably, they are cancerous cells, and the tumor is malignant.
 The early diagnosis of Tumor can improve the prognosis and chance of survival significantly, as it can promote timely clinical treatment to patients. Further accurate classification of benign tumors can prevent patients undergoing unnecessary treatments.
 Dataset Description 
